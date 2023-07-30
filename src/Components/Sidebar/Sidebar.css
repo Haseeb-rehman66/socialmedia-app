@@ -1,0 +1,51 @@
+.container-width{
+    flex: 3;
+}
+
+.col-wd{
+   
+    width: 100%;
+    
+      
+}
+
+
+.row-width{
+    width: 150px;
+    display: flex;
+    
+}
+.container-width{
+    flex: 1;
+       
+}
+
+.nav-link:hover{ 
+
+    transform: scale(1.2);
+
+}
+.divider{
+    height: 1px;
+    width: 200px;
+    background-color: black;
+}
+
+
+
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+   
+} 
+
+::-webkit-scrollbar-track{
+    width: 100px;
+}
+
+#icon{
+    font-size: 20px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-right: 0;
+    
+}

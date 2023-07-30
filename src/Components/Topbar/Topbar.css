@@ -1,0 +1,31 @@
+.App{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.main{
+    background-color: rgb(121, 121, 238);
+    
+    
+}
+NavDropdown{
+    color: white;
+}
+
+.nav_align{
+    justify-content: flex-end;
+    padding-right: 30px;
+    color: white !important;
+ 
+
+}
+.form{
+    padding-left: 100px;
+    
+}
+.search{
+    justify-content: center;
+    border-radius: 25px;
+    width: 150%;
+}

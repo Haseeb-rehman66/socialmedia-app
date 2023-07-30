@@ -1,0 +1,76 @@
+.maincard{
+    padding: 10px 10px;
+    margin: 10px 0;
+    width: 97%;
+    height: 170px;
+    border-radius: 10px;
+    box-shadow: 3px 10px 21px -7px rgba(0,0,0,1);
+-webkit-box-shadow: 3px 10px 21px -7px rgba(0,0,0,1);
+-moz-box-shadow: 3px 10px 21px -7px rgba(0,0,0,1);
+}
+
+
+
+.img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.text{
+
+    border: none;
+    padding: 10px 10px;
+    width: 80%;
+}
+
+.text:focus{
+    outline: none;
+}
+
+.sharebottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tagcontainer{
+    display: flex;
+    margin-left: 20px;
+    
+}
+
+.linktags{
+    display: flex;
+    align-items: center;
+}
+.icon{
+  
+    font-size: 18px;
+    margin-top: 0;
+    padding-top: 0;
+    margin-right: 3px;
+   
+}
+
+.tags{
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 14px;
+    font-weight: 500;
+ 
+    
+    margin-right: 15px;
+    cursor: pointer;
+    
+}
+
+.button{
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+    background-color: green;
+    font-weight: 500;
+    margin-right: 20px;
+    cursor: pointer;
+    color: white;
+}
